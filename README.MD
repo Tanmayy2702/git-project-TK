@@ -12,3 +12,7 @@ upGrad school of technology
 ## projects
 - LMS : one line about it
 - CMS : one line about it 
+
+## social links 
+- github: https://
+- linkdin: https://
