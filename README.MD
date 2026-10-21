@@ -8,3 +8,7 @@ upGrad school of technology
 - communication
 - problem solvin
 - basic git
+
+## projects
+- LMS : one line about it
+- CMS : one line about it 
